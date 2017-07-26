@@ -1,0 +1,22 @@
+{
+  "artists" : [
+    {
+      "name": "Banksy",
+      "title": "Caveman Fast Food",
+      "medium": "Spray paint",
+      "work": "images/banksy-caveman.jpg"
+    },
+    {
+      "name": "Banksy",
+      "title": "Keep your coins, I want change",
+      "medium": "Spray paint",
+      "work": "images/banksy-change.jpg"
+    },
+    {
+      "name": "Banksy",
+      "title": "Rage, Flower Thrower",
+      "medium": "Spray paint",
+      "work": "images/banksy-thrower.jpg"
+    }
+  ]
+}
